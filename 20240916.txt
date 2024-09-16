@@ -1,0 +1,4 @@
+another test
+- CLI
+- from home
+- .ssh key gen and added
